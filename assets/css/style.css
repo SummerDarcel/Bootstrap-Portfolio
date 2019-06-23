@@ -9,7 +9,6 @@ body {
     background: url("/assets/images/gravel.png");
     background-color: beige;
   }
-
   .wrapper{
       min-height: 100%
   }
@@ -26,9 +25,7 @@ body {
     border-bottom: 2px solid #cccccc;
     overflow: auto;
     margin: 0 0 30px;
-
 }
-
   #brand {
     float: left;
     font-family: Georgia, Times, "Times New Roman", serif;
@@ -37,9 +34,7 @@ body {
     text-align: center;
     line-height: 90px;
     width: 350px;
-
-    
-  }
+  } 
   img {
     float: left;
     margin: 20px 20px 5px 0;
@@ -47,22 +42,17 @@ body {
 nav a:first-child {
     clear: both;
     overflow: auto;
-    border-left: 0 none;
-    
+    border-left: 0 none; 
   }
-
- .mContainer {
-     
+ .mContainer { 
         width: 100%;
         max-width: 960px;
         padding: 30px;
-       
         margin: auto auto 30px auto;
         background: #ffffff;
         border: 1px solid #dddddd;
        padding-top:200px;
  }
-
  h1 {
     padding-bottom: 20px;
     font-size: 30px;
@@ -70,9 +60,7 @@ nav a:first-child {
     border-bottom: 3px solid #dddddd;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 700;
-
   }
-
   footer {
     padding: 30px 0;
     clear: both;
@@ -90,11 +78,9 @@ nav a:first-child {
 #contact-form ul {
     margin-bottom: 20px;
   }
-  
   #contact-form li {
     margin-bottom: 10px;
   }
-  
   label,
   input[type=text],
   input[type=email],
@@ -102,7 +88,6 @@ nav a:first-child {
     display: block;
     width: 100%;
   }
-  
   input[type=text],
   input[type=email],
   textarea {
@@ -115,7 +100,6 @@ nav a:first-child {
   textarea {
     height: 200px;
   }
-  
   input[type=submit] {
     padding: 10px 30px;
     font-size: 18px;
